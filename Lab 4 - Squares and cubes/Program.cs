@@ -12,6 +12,7 @@ namespace Lab_4___Squares_and_cubes
         {
             int userNum, numSquared, numCubed;
             string numIn, again;
+            bool againM = true;
 
             do
             {
@@ -19,14 +20,17 @@ namespace Lab_4___Squares_and_cubes
                 userNum = int.Parse(numIn = Console.ReadLine());
 
                 Console.WriteLine("Number" + "     " + "Squared" + "     " + "Cubed");
-                for (int i = 0; i < userNum; i++)
+                Console.WriteLine("------------------------------------------------");
+                for (int i = 1; i <= userNum; i++)
                 {
-                    Console.WriteLine();
+                    numSquared = i * i;
+                    numCubed = i * i * i;    
+                    Console.WriteLine(i + "          " + numSquared + "           " + numCubed);
                 }
 
                 Console.WriteLine("Continue? y/n");
                 again = Console.ReadLine();
             } while (again == "y");
-        }
+        }        
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\GC Student\Source\Repos\Lab 4 - Squares and cubes\Lab 4 - Squares and cubes\bin\Debug\Lab 4 - Squares and cubes.exe.config
+C:\Users\GC Student\Source\Repos\Lab 4 - Squares and cubes\Lab 4 - Squares and cubes\bin\Debug\Lab 4 - Squares and cubes.exe
+C:\Users\GC Student\Source\Repos\Lab 4 - Squares and cubes\Lab 4 - Squares and cubes\bin\Debug\Lab 4 - Squares and cubes.pdb
+C:\Users\GC Student\Source\Repos\Lab 4 - Squares and cubes\Lab 4 - Squares and cubes\obj\Debug\Lab 4 - Squares and cubes.csproj.CoreCompileInputs.cache
+C:\Users\GC Student\Source\Repos\Lab 4 - Squares and cubes\Lab 4 - Squares and cubes\obj\Debug\Lab 4 - Squares and cubes.exe
+C:\Users\GC Student\Source\Repos\Lab 4 - Squares and cubes\Lab 4 - Squares and cubes\obj\Debug\Lab 4 - Squares and cubes.pdb
+C:\Users\GC Student\Source\Repos\Lab 4 - Squares and cubes\Lab 4 - Squares and cubes\obj\Debug\Lab 4 - Squares and cubes.csprojResolveAssemblyReference.cache
