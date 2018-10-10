@@ -12,8 +12,7 @@ namespace Lab_4___Squares_and_cubes
         {
             int userNum, numSquared, numCubed;
             string numIn, again;
-            bool againM = true;
-
+            
             do
             {
                 Console.Write("Please, enter an integer: ");
@@ -30,6 +29,7 @@ namespace Lab_4___Squares_and_cubes
 
                 Console.WriteLine("Continue? y/n");
                 again = Console.ReadLine();
+                again = again.ToLower();
             } while (again == "y");
         }        
     }
